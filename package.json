@@ -1,5 +1,4 @@
 {
-<<<<<<< HEAD
   "name": "aiser_manager",
   "version": "0.1.0",
   "private": true,
@@ -22,26 +21,4 @@
     "react": "^18.x.x",
     "react-dom": "^18.x.x"
   }
-=======
-  "dependencies": {
-    "@google/generative-ai": "^0.24.1",
-    "axios": "^1.18.1",
-    "csv-parser": "^3.2.1",
-    "dotenv": "^17.4.2",
-    "fast-csv": "^5.0.7",
-    "openai": "^6.45.0",
-    "papaparse": "^5.5.4"
-  },
-  "name": "shopify-importer",
-  "version": "1.0.0",
-  "description": "",
-  "main": "converter.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "type": "commonjs"
->>>>>>> 7ad4d969e993bbdf0847c23b216115bf772a4a65
 }
